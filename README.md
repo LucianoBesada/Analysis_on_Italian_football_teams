@@ -1,4 +1,4 @@
-# Analysis_on_Italian_football_teams
+# Analysis on Italian football teams
 Deep analysis on Italian football teams using SQL, Python and Visualization libraries
 
 Libraries versions:
