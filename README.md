@@ -2,7 +2,7 @@
 Deep analysis on Italian football teams using *SQL*, *Python* and Visualization libraries.
 
 The purpose of this work is to analyse the performance from 2008/2009 to 2015/2016 season for three main Italian football teams: *F.C. Internazionale* , *A.C. Milan* , and *Juventus*.
-All the data has been collected and organized from [Kaggle - European Soccer Dataset](https://www.kaggle.com/hugomathien/soccer). 
+All the data has been collected and organized from [Kaggle - European Soccer Dataset](https://www.kaggle.com/hugomathien/soccer). <br>
 The Dataset contains data for soccer matches, players, and teams from European Countries from 2008 to 2016.
 
 This report will explore the results, points, and differences between these teams. With the final aim to answer these questions:
